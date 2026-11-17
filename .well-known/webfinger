@@ -3,7 +3,7 @@
   "links": [
     {
       "rel": "http://openid.net/specs/connect/1.0/issuer",
-      "href": "https://tail-lepu9d.eu1.zitadel.cloud/"
+      "href": "https://tail-lepu9d.eu1.zitadel.cloud"
     }
   ]
 }
